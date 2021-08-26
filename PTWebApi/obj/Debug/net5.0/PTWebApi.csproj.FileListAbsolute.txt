@@ -1,0 +1,270 @@
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.exe
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.deps.json
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.runtimeconfig.json
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.runtimeconfig.dev.json
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ref\PTWebApi.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\staticwebassets\PTWebApi.StaticWebAssets.Manifest.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\staticwebassets\PTWebApi.StaticWebAssets.xml
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\scopedcss\bundle\PTWebApi.styles.css
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.CopyComplete
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\ref\PTWebApi.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.pdb
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hecto\OneDrive\Escritorio\Proyectos\ASP.NET\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.exe
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.deps.json
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.runtimeconfig.json
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.runtimeconfig.dev.json
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ref\PTWebApi.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\PTWebApi.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.AssemblyReference.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.AssemblyInfoInputs.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.AssemblyInfo.cs
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\staticwebassets\PTWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\staticwebassets\PTWebApi.StaticWebAssets.xml
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\scopedcss\bundle\PTWebApi.styles.css
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.csproj.CopyComplete
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\ref\PTWebApi.dll
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.pdb
+C:\Users\Ivan Segura\Desktop\Hector\PTWebApi\PTWebApi\obj\Debug\net5.0\PTWebApi.genruntimeconfig.cache
